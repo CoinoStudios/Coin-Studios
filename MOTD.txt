@@ -1,1 +1,1 @@
-trying to find that lag issue so it may still be laggy
+Minor bug fixes
