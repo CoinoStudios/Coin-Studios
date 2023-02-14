@@ -1,1 +1,1 @@
-Added Saving cosmetics, Stump Model, and saving colors!
+Fixed Name Saving, Horror, Loading Times!
